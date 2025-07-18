@@ -32,15 +32,3 @@ Fluxo:
 3. Tenta abrir novamente (mensagem: já está aberto)
 4. Fecha o baú
 5. Tenta fechar de novo (mensagem: já está fechado)
-
----
-
-## 🚀 Como compilar e executar
-
-> Como os arquivos estão no pacote `Aula05`, use a estrutura de pastas corretamente.
-
-### Compile:
-```bash
-javac Aula05/Moto.java Aula05/Main.java
-
-java Aula05.Main
