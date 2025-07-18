@@ -1,7 +1,5 @@
 # ☕ Primeiros Passos com Java
 
-> Um repositório simples, direto e didático para quem está começando na jornada Java.
-
 Este projeto contém uma pequena coleção de arquivos `.java` criados com o propósito de **ensinar** e **praticar** os fundamentos da linguagem Java. Cada arquivo representa um conceito essencial para quem está dando os primeiros passos na programação.
 
 ---
@@ -27,16 +25,6 @@ Matemática básica com Java:
 - Operadores: soma, subtração, multiplicação, divisão e módulo
 - Operações simples entre variáveis
 - Ordem de precedência (sim, parênteses importam!)
-
----
-
-## 🚀 Como rodar isso?
-
-1. Instale o JDK (Java Development Kit) — [Baixar aqui](https://www.oracle.com/java/technologies/javase-downloads.html)
-2. No terminal, navegue até o diretório dos arquivos
-3. Compile com:
-   ```bash
-   javac NomeDoArquivo.java
 
 📚 Para que serve isso?
 
