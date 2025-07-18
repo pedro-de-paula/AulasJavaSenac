@@ -1,9 +1,3 @@
-📝 Autor
-
-Pedro de Paula Camargo Araújo
-(Integrante do projeto didático de aprendizado em Java)
-
-
 
 # 🚗 Aula04 – Orientação a Objetos com a Classe `Carro`
 
@@ -40,14 +34,4 @@ Simula o seguinte fluxo:
 4. Desliga o carro
 5. Tenta desligar novamente (mensagem: já está desligado)
 
----
-
-## 🔧 Como compilar e executar
-
-> Os arquivos estão no pacote `Aula04`, portanto mantenha a estrutura correta.
-
-### Compile os arquivos:
-```bash
-javac Aula04/Carro.java Aula04/Main.java
-java Aula04.Main
 
