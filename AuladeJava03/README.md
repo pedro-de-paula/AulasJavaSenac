@@ -1,35 +1,39 @@
-# 📚 Explorando Java na Prática
+# 📘 Aula03 – Funções Matemáticas e Médias Escolares
 
-> Um repositório repleto de exemplos práticos para iniciantes em Java  
-> Criado por estudantes empenhados e movidos a café e lógica.
-
----
-
-## ✨ Visão Geral
-
-Este repositório é uma coleção de programas simples, diretos e didáticos escritos em Java — perfeitos para quem está começando sua jornada na programação orientada a objetos.
-
-Cada arquivo tem um propósito: ensinar um conceito de forma prática e divertida.
+> Dois programas simples e didáticos em Java para entender a classe `Math` e como calcular médias de forma estruturada.
 
 ---
 
-## 🧠 O que você vai encontrar aqui
+## 📄 Arquivos incluídos
 
-| Arquivo                | Tema                                | Conceitos abordados                         |
-|------------------------|-------------------------------------|---------------------------------------------|
-| `Aula01.java`          | Estrutura básica                    | `main()`, `System.out.println`, sintaxe     |
-| `Variáveis.java`       | Tipos e variáveis                   | `int`, `double`, `boolean`, `String`        |
-| `OperadoresBasicos.java` | Operadores aritméticos              | `+`, `-`, `*`, `/`, `%`                     |
-| `Receita.java`         | Receita culinária com lógica        | Strings, `Scanner`, `if/else`               |
-| `Matematica.java`      | Funções da classe `Math`            | `pow`, `abs`, `max`, `min`, `round`, `random` |
-| `NotasDosAlunos.java`  | Cálculo de médias escolares         | Declarações, `System.out.printf`, média     |
+### 🧮 `Matematica.java`
+Demonstra o uso de várias funções da classe `Math`, como:
+
+- `Math.pow(base, expoente)` → Potenciação  
+- `Math.abs(valor)` → Valor absoluto  
+- `Math.max(a, b)` / `Math.min(a, b)` → Comparação  
+- `Math.round(double)` → Arredondamento  
+- `Math.random()` → Geração de número aleatório
+
+💡 Ideal para aprender funções matemáticas embutidas no Java!
 
 ---
 
-## 🛠️ Como rodar os códigos
+### 📊 `NotasDosAlunos.java`
+Calcula e exibe a média de três alunos (João, Cláudio e Henrique) com base em seis notas cada.
 
-1. Instale o JDK (Java Development Kit).
-2. No terminal, navegue até a pasta com os arquivos.
-3. Compile o arquivo desejado:
-   ```bash
-   javac NomeDoArquivo.java
+- Mostra as notas de cada aluno
+- Usa `System.out.printf` para formatação
+- Faz os cálculos de forma clara e separada
+- Prática real para manipulação de `double` e médias
+
+---
+
+## 🚀 Como executar
+
+> ⚠️ Como os arquivos estão dentro do pacote `Aula03`, mantenha a estrutura da pasta ao compilar e executar.
+
+### Para compilar:
+```bash
+javac Aula03/Matematica.java
+javac Aula03/NotasDosAlunos.java
