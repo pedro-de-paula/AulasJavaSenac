@@ -1,3 +1,10 @@
+📝 Autor
+
+Pedro de Paula Camargo Araújo
+(Integrante do projeto didático de aprendizado em Java)
+
+
+
 # 🚗 Aula04 – Orientação a Objetos com a Classe `Carro`
 
 > Nesta aula, criamos uma classe `Carro` e simulamos seu comportamento no console com atributos, métodos e instâncias.
@@ -43,9 +50,4 @@ Simula o seguinte fluxo:
 ```bash
 javac Aula04/Carro.java Aula04/Main.java
 java Aula04.Main
-
-📝 Autor
-
-Pedro de Paula Camargo Araújo
-(Integrante do projeto didático de aprendizado em Java)
 
