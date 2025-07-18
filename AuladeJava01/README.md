@@ -38,10 +38,6 @@ Este repositório é ideal para:
 
     Gente curiosa querendo entender “como esse tal de Java funciona”
 
-🛠️ Requisitos
-
-    Java 8 ou superior (qualquer versão moderna funciona)
-
     Terminal ou Prompt de Comando
 
     Um editor legal (VS Code, IntelliJ, Eclipse, ou o clássico bloco de notas)
