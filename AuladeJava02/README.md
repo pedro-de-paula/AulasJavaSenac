@@ -1,9 +1,6 @@
 # 🍝 Receita de Macarronada em Java
 
 > Um programa em Java que simula o preparo de uma macarronada passo a passo.  
-> Desenvolvido por: Matheus Alves, Pedro Augusto, Pedro de Paula, Rafaela Leite e Sabrina de Sá.
-
----
 
 ## 🧾 Sobre o Projeto
 
@@ -33,13 +30,3 @@ Este arquivo contém:
 ✅ Interatividade com o usuário (`Quer queijo ralado?`)  
 ✅ Variáveis bem nomeadas para ingredientes e utensílios  
 ✅ Saída divertida no console
-
----
-
-## 💻 Como executar
-
-1. Certifique-se de ter o Java JDK instalado.
-2. Salve o arquivo como `Receita.java` (ou mantenha o nome do pacote).
-3. Compile no terminal:
-   ```bash
-   javac Receita.java
