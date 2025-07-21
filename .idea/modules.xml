@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuladeJava01/AuladeJava01.iml" filepath="$PROJECT_DIR$/AuladeJava01/AuladeJava01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuladeJava1/AuladeJava1.iml" filepath="$PROJECT_DIR$/AuladeJava1/AuladeJava1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuladeJava2/AuladeJava2.iml" filepath="$PROJECT_DIR$/AuladeJava2/AuladeJava2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuladeJava3/AuladeJava3.iml" filepath="$PROJECT_DIR$/AuladeJava3/AuladeJava3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuladeJava4/AuladeJava4.iml" filepath="$PROJECT_DIR$/AuladeJava4/AuladeJava4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuladeJava5/AuladeJava5.iml" filepath="$PROJECT_DIR$/AuladeJava5/AuladeJava5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuladeJava5part2/AuladeJava5part2.iml" filepath="$PROJECT_DIR$/AuladeJava5part2/AuladeJava5part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AulasdeJava.iml" filepath="$PROJECT_DIR$/.idea/AulasdeJava.iml" />
+    </modules>
+  </component>
+</project>
